@@ -1,0 +1,7 @@
+#animBox {
+    width: 50vw;
+    height: 50vh;
+    border-radius: 10px;
+    background-color: aqua;
+    position: absolute;
+}
